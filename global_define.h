@@ -1,0 +1,9 @@
+#ifndef GLOBAL_DEFINE_H
+#define GLOBAL_DEFINE_H
+
+const int REQUEST_CODE = 123;
+
+#define MODIFY_RECEIVER_LOCAL           1
+#define MODIFY_RECEIVER_EXTERNAL        1
+
+#endif // GLOBAL_DEFINE_H

@@ -1,0 +1,2 @@
+#include "resultreceiver.h"
+
